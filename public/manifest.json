@@ -2,6 +2,9 @@
     "name": "Web Push",
       "short_name": "push-example",
       "start_url": "/",
+    "display": "standalone",
+      "theme_color": "#ffffff",
+  "background_color":"#ffffff",
       "icons": [
       {
         "src": "/icon.png",
